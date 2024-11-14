@@ -424,27 +424,15 @@ main{
     }
     
     .logo1 {
-        width: 90%;
+        width: 100%;
         left: 6rem;
     }
     
     .search {
-        top: 0.5rem;
-        left: 3rem;
+      display: none;
      }
-    
-    #searchbar {
-        width: 80%;
-    }
-    
-    .tsearch {
-        width: 50%;
-    }
-    
     .login {
-        top: 1rem;
-        width: 20%;
-        left: 20rem;
+         display: none;
     }
     
     .tutorials {
@@ -466,7 +454,7 @@ main{
     
     .img2, .img4 {
         width: 23rem;
-        height: 6rem;
+        height: 4rem;
         margin:auto;
     }
     
