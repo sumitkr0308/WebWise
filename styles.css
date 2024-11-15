@@ -285,6 +285,10 @@ main{
     height: 15rem;
 
 }
+.comp{
+    height: 80vh;
+    width: 80vw;
+}
 .footer{
     width: 100%;
     background-color: rgb(48, 48, 48);
